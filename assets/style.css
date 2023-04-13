@@ -1,0 +1,11 @@
+.form-floating input[type=text],
+.form-floating input[type=email],
+.form-floating input[type=number],
+.form-floating input[type=password],
+.form-floating select
+{
+    border-top: 0px;
+    border-right:0px;
+    border-left: 0px;
+    box-shadow: none !important;
+}
